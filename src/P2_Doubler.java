@@ -2,8 +2,8 @@ import java.util.Scanner;
 
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(s): Rona Davis	
+	Date: April 4, 2018
 */
 
 public class P2_Doubler {

@@ -1,13 +1,8 @@
 import java.util.Scanner;
 /*
 	ISYS 320
-	Name(s):
-	Date: 
-	public static void main(String[] args) {
-		Scanner console = new Scanner(System.in); 
-		System.out.print("How much money do you have? "); 
-		double money = console.nextDouble();
-		System.out.println("wow!");
+	Name(s):Rona Davis
+	Date: April 4, 2018
 */
 
 public class P3_EchoChamber {

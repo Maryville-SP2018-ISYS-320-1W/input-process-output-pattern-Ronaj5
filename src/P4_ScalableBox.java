@@ -1,14 +1,14 @@
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(s): Rona Davis
+	Date: April 4, 2018
 */
 
 public class P4_ScalableBox {
 
 	public static final 
 	int Height = 10;
-	static int Width = 8;
+	static int Width = 20;
 	
 		public static void main(String[] args) {
 			drawBoxCap();
